@@ -1,13 +1,15 @@
-<p align="center">
-  <img src="bioinfo_logo_git.png" width="90%" />
-</p>
-<h1 align="center">Hi 👋, I'm Akanksha</h1>
-<h3 align="center">Bioinformatician | Turning biological data into meaningful insights</h3>
+<table>
+  <tr>
+    <td>
+      <h1>Hi 👋, I'm Akanksha</h1>
+      <h3>Bioinformatician | Turning biological data into meaningful insights</h3>
+    </td>
+    <td>
+      <img src="/bioinfo_logo_git.png" height="300"/>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-I work on real biological datasets using R, Python, and Linux-based tools.  
-My interests include RNA-seq analysis, cancer genomics, protein structure prediction, molecular docking, and drug discovery.
-</p>
 
 ---
 
